@@ -1,3 +1,5 @@
+> **ABSORBED into the plurnk platform monorepo** — code, history, and issues now live in [`plurnk/plurnk-service`](https://github.com/plurnk/plurnk-service) under `plurnk-agui/`. This repo is an archived snapshot.
+
 # @plurnk/plurnk-agui
 
 The plurnk daemon's **transport daughter**: owns the client interface, serving
